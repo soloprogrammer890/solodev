@@ -50,8 +50,8 @@ ul li.active a{
 }
 .title{
 	position:absolute;
-	top:45%;
-	left:35%;
+	top:50%;
+	left:50%;
 	transform: translation(-50%,-50%);
 }
 h1
